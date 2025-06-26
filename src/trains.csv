@@ -1,0 +1,21 @@
+Train Number,Train Name,Start Destination,End Destination,Total Seats,Remaining Total Seats,Total Seats 1A,Remaining Seats 1A,Price 1A,Total Seats 2A,Remaining Seats 2A,Price 2A,Total Seats 3A,Remaining Seats 3A,Price 3A,Total Seats CC,Remaining Seats CC,Price CC,Starting Time,Estimated Time of Arrival
+20901,Vande Bharat Express,Mumbai ,Ahmedabad,300,300,50,50,2500,100,100,2000,150,150,1750,200,200,2200,08:00,13:00
+14897,Shatabdi Express,Mumbai ,Ahmedabad,250,246,40,36,1500,80,80,1200,100,100,800,150,150,1000,09:30,14:50
+12933,Karnavati Express,Mumbai,Ahmedabad,200,195,30,30,1000,60,60,800,90,90,650,120,115,900,23:00,05:00
+12910,Suryanagri Express,Surat,Ahmedabad,180,174,28,24,1200,70,70,1000,85,85,800,100,98,1000,05:45,23:15
+21311,Rajdhani Express,Delhi,Bangalore,220,215,35,35,3000,85,80,2200,100,100,1750,110,110,2000,22:15,01:30
+11984,Himalayan Queen,Delhi,Shimla,250,250,50,50,1200,100,100,800,150,150,650,180,180,950,07:25,21:15
+13486,Rajdhani Express,Delhi,Mumbai,300,300,60,60,3000,110,110,2200,140,140,1800,210,210,2100,15:00,22:00
+12098,Nizamuddin Duronto Express,Delhi ,Mumbai,200,200,30,30,1500,80,80,1000,120,120,750,160,160,900,12:30,16:45
+11345,Double Decker Express,Chennai,Bangalore,180,180,28,28,1300,70,70,900,85,85,550,100,100,850,19:15,22:30
+16908,Mysuru Express,Chennai,Bangalore,250,250,50,50,1200,100,100,800,150,150,550,190,190,875,14:05,16:20
+20851,Vande Bharat Express,Delhi,Kolkata,300,300,50,50,2500,100,100,1800,150,150,1100,200,200,1500,08:00,20:35
+21673,Howrah Express,Delhi,Kolkata,250,246,40,36,1700,80,80,1100,100,100,850,150,150,1100,09:30,21:00
+19340,Madras Superfast,Kolkata,Chennai,200,200,30,30,1650,60,60,1200,90,90,800,120,120,1000,23:00,15:00
+12092,Ashram Express,Ahmedabad,Delhi,180,177,28,28,1800,70,67,1200,85,85,800,100,100,950,05:45,22:25
+13492,Maratha Express,Bangalore,Mumbai,220,215,35,35,1200,85,80,800,100,100,550,110,110,750,22:15,07:15
+20456,Pune Duronto Express,Surat,Pune,250,249,50,49,1100,100,100,750,150,150,450,180,180,700,07:25,11:40
+12762,Veraval Pune Express,Surat,Pune,300,300,60,60,1000,110,110,750,140,140,400,210,210,650,15:00,18:15
+13234,Madgaon Express,Panaji,Shillong,200,200,30,30,4000,80,80,2800,120,120,2200,160,160,2500,12:30,08:00
+15609,Vande Bharat Express,Delhi,Mumbai,180,154,28,27,3500,70,45,2700,85,85,2200,100,100,2600,19:15,05:45
+12117,Chennai Express,Kashmir,Kanyakumari,250,250,50,50,4500,100,100,3750,150,150,3000,190,190,3200,00:05,23:59
